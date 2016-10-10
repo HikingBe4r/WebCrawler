@@ -1,0 +1,137 @@
+
+
+<div id="charInfo"></div>
+<!--db_wrapper start -->
+<div class="db_wrapper ">
+  <!--db_contents1 start -->
+<div class="db_contents1" align="center">
+		<div class="db_thumarea">
+					<img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/s_rury.png" class="db_thumB"  onerror='noimage(this)' />
+    	</div>
+</div>
+
+<!--db_contents1 end -->
+
+<!--db_contents2 start -->
+<div class="db_contents2" align="center">
+
+<!--db_watermark start -->
+<div class="db_watermark">
+
+<div class="table_0px">
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="85%" />
+          </colgroup>
+  	<tr>
+    	<td class="td1">
+        		일발필중 루리        		<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/star_6_gak.png' class='db_starA'  title='등급' alt='6' onerror='noimage(this)'/>				<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/icon_2.png' class='db_iconA' onerror='noimage(this)' >				<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/icon_gak.png'  class="db_iconA" />        </td>
+  	</tr>
+</table>
+</div>
+
+<div style="height:5px;"></div>
+
+<div class="table_2px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt2">최대 레벨 / 최대 강화 시 능력치</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+          </colgroup>
+  <tr>
+    <td class="td1">생명력</td>
+    <td class="td1">공격(마법)력</td>
+    <td class="td1">방어력</td>
+    <td class="td1">속공</td>
+  </tr>
+  <tr>
+    <td class="td2">4,420</td>
+    <td class="td2">2,502</td>
+    <td class="td2">1,132</td>
+    <td class="td2">31</td>
+  </tr>
+</table>
+</div>
+</div>
+<!--db_watermark end -->
+
+
+</div>
+<!--db_contents2 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">특기</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="100%" />
+          </colgroup>
+  <tr>
+    <td class="td0"><span class="db_c2" style="padding:10px;float:left;color:#22dd4d;"  >피해면역, 치명상승, 고정피해, 약공상승, 즉사</span></td>
+  </tr>
+</table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">스킬 정보</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="15%" />
+               <col width="70%" />
+          </colgroup>
+   <tr>
+    <td class="td0"><span class="db_c2">패시브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/rury1.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c2b">뒷거래 (고유 지속 효과)</p>아군 전체의 약점 공격과 치명타 확률이 30% 상승합니다. 
+추가적으로 자신에게 모든 피해에 대한 변역이 3턴간 부여됩니다.	</td>
+  </tr>
+        <tr>
+    <td rowspan="2"  class="td0"><span class="db_c3">액티브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/rury2.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">근거리 연사 (재사용 시간 : 100초)</p>적군 전체에게 관통 효과가 적용되는 3000 만큼의 고정 피해를 입힙니다.	</td>
+  </tr>
+       <tr>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/rury3.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">폭격 지원 (재사용 시간 : 100초)</p>적군 4명에게 공격력의 140% 물리 피해를 입힙니다.
+추가적으로 대상의 최대 생명력의 30% 만큼 추가 피해를 입힙니다.	</td>
+  </tr>
+      <tr>
+    <td class="td0"><span class="db_c4">각성스킬</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/rury4.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c4b">정밀 조준 (각성 사용 스킬)</p>방어력이 가장 높은 적군 1명에게 죽음에 이르는 공격을 가합니다.
+(이 공격은 불사 효과를 제외한 모든 효과에 적용됩니다.)	</td>
+  </tr>
+   </table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+

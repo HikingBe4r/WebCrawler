@@ -1,0 +1,137 @@
+
+
+<div id="charInfo"></div>
+<!--db_wrapper start -->
+<div class="db_wrapper ">
+  <!--db_contents1 start -->
+<div class="db_contents1" align="center">
+		<div class="db_thumarea">
+					<img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/5baekgak.png" class="db_thumB"  onerror='noimage(this)' />
+    	</div>
+</div>
+
+<!--db_contents1 end -->
+
+<!--db_contents2 start -->
+<div class="db_contents2" align="center">
+
+<!--db_watermark start -->
+<div class="db_watermark">
+
+<div class="table_0px">
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="85%" />
+          </colgroup>
+  	<tr>
+    	<td class="td1">
+        		권신 백각        		<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/star_5.png' class='db_starA'  title='등급' alt='5' onerror='noimage(this)'/>				<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/icon_1.png' class='db_iconA' onerror='noimage(this)' >				        </td>
+  	</tr>
+</table>
+</div>
+
+<div style="height:5px;"></div>
+
+<div class="table_2px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt2">최대 레벨 / 최대 강화 시 능력치</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+          </colgroup>
+  <tr>
+    <td class="td1">생명력</td>
+    <td class="td1">공격(마법)력</td>
+    <td class="td1">방어력</td>
+    <td class="td1">속공</td>
+  </tr>
+  <tr>
+    <td class="td2">3,109</td>
+    <td class="td2">1,169</td>
+    <td class="td2">750</td>
+    <td class="td2">15</td>
+  </tr>
+</table>
+</div>
+</div>
+<!--db_watermark end -->
+
+
+</div>
+<!--db_contents2 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">특기</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="100%" />
+          </colgroup>
+  <tr>
+    <td class="td0"><span class="db_c2" style="padding:10px;float:left;color:#22dd4d;"  >약공상승, 상태이상면역, 중독, 공격력증가, 마법력증가</span></td>
+  </tr>
+</table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">스킬 정보</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="15%" />
+               <col width="70%" />
+          </colgroup>
+   <tr>
+    <td class="td0"><span class="db_c2">패시브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/baekgak1.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c2b">어둠의 주술 (고유 지속 효과)</p>아군 전체의 약점 공격 확률이 30% 상승합니다.
+추가적으로 아군 전체에게 4턴간 중독 피해에 대한 면역이 부여됩니다.	</td>
+  </tr>
+        <tr>
+    <td rowspan="2"  class="td0"><span class="db_c3">액티브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/baekgak2.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">백각환독 (재사용 시간 : 74초)</p>적군 1명에게 마법력의 180% 마법 피해를 입힙니다.
+확률적으로 2턴간 대상에게 마법력의 150% 중독 피해를 입힙니다.	</td>
+  </tr>
+       <tr>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/baekgak3.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">마신주령 (재사용 시간 : 102초)</p>아군 전체의 공격력과 마법력이 3턴간 40% 상승합니다.	</td>
+  </tr>
+    </table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+
+<!--db_contents5 start -->
+<div class="db_contents3">
+
+<div class="table_1px">
+<div class="db_tt_W">
+		<div class="db_tt">영웅의 활약처를 평가해주세요</div>
+

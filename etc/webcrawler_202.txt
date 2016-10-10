@@ -1,0 +1,137 @@
+
+
+<div id="charInfo"></div>
+<!--db_wrapper start -->
+<div class="db_wrapper ">
+  <!--db_contents1 start -->
+<div class="db_contents1" align="center">
+		<div class="db_thumarea">
+					<img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/2pros.png" class="db_thumB"  onerror='noimage(this)' />
+    	</div>
+</div>
+
+<!--db_contents1 end -->
+
+<!--db_contents2 start -->
+<div class="db_contents2" align="center">
+
+<!--db_watermark start -->
+<div class="db_watermark">
+
+<div class="table_0px">
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="85%" />
+          </colgroup>
+  	<tr>
+    	<td class="td1">
+        		설원의 가디언 프로스        		<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/star_2.png' class='db_starA'  title='등급' alt='2' onerror='noimage(this)'/>				<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/icon_2.png' class='db_iconA' onerror='noimage(this)' >				        </td>
+  	</tr>
+</table>
+</div>
+
+<div style="height:5px;"></div>
+
+<div class="table_2px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt2">최대 레벨 / 최대 강화 시 능력치</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+          </colgroup>
+  <tr>
+    <td class="td1">생명력</td>
+    <td class="td1">공격(마법)력</td>
+    <td class="td1">방어력</td>
+    <td class="td1">속공</td>
+  </tr>
+  <tr>
+    <td class="td2">962</td>
+    <td class="td2">509</td>
+    <td class="td2">200</td>
+    <td class="td2">10</td>
+  </tr>
+</table>
+</div>
+</div>
+<!--db_watermark end -->
+
+
+</div>
+<!--db_contents2 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">특기</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="100%" />
+          </colgroup>
+  <tr>
+    <td class="td0"><span class="db_c2" style="padding:10px;float:left;color:#22dd4d;"  >빙결, 상태이상면역</span></td>
+  </tr>
+</table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">스킬 정보</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="15%" />
+               <col width="70%" />
+          </colgroup>
+     <tr>
+    <td rowspan="2"  class="td0"><span class="db_c3">액티브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/pros2.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">냉기의 관통 (재사용 시간 : 58초)</p>적군 1명에게 공격력의 140% 물리 피해를 입힙니다.
+확률적으로 2턴간 대상에게 빙결 효과를 부여합니다.	</td>
+  </tr>
+       <tr>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/pros3.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">얼음 방패 (재사용 시간 : 120초)</p>자신에게 상태이상 효과에 대한 면역이 2턴간 부여됩니다.	</td>
+  </tr>
+    </table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+
+<!--db_contents5 start -->
+<div class="db_contents3">
+
+<div class="table_1px">
+<div class="db_tt_W">
+		<div class="db_tt">영웅의 활약처를 평가해주세요</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="td1_c">
+		    <a href="javascript:pointLayerView('1')" class="layerView"><img src="http://appdata.hungryapp.co.kr/images/sim/seven_knights/btn_socre_1.png" class="db_btn_score" /></a>
+		    <a href="javascript:pointLayerView('2')"><img src="http://appdata.hungryapp.co.kr/images/sim/seven_knights/btn_socre_2.png" class="db_btn_score" /></a>
+		    <a href="javascript:pointLayerView('3')"><img src="http://appdata.hungryapp.co.kr/images/sim/seven_knights/btn_socre_3.png" class="db_btn_score" /></a>
+

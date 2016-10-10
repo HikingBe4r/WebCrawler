@@ -1,0 +1,137 @@
+
+
+<div id="charInfo"></div>
+<!--db_wrapper start -->
+<div class="db_wrapper ">
+  <!--db_contents1 start -->
+<div class="db_contents1" align="center">
+		<div class="db_thumarea">
+					<img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/4gangjae.png" class="db_thumB"  onerror='noimage(this)' />
+    	</div>
+</div>
+
+<!--db_contents1 end -->
+
+<!--db_contents2 start -->
+<div class="db_contents2" align="center">
+
+<!--db_watermark start -->
+<div class="db_watermark">
+
+<div class="table_0px">
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="85%" />
+          </colgroup>
+  	<tr>
+    	<td class="td1">
+        		머리를 찾는 강재        		<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/star_4.png' class='db_starA'  title='등급' alt='4' onerror='noimage(this)'/>				<img src='http://appdata.hungryapp.co.kr/images/sim/seven_knights/icon_2.png' class='db_iconA' onerror='noimage(this)' >				        </td>
+  	</tr>
+</table>
+</div>
+
+<div style="height:5px;"></div>
+
+<div class="table_2px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt2">최대 레벨 / 최대 강화 시 능력치</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+               <col width="25%" />
+          </colgroup>
+  <tr>
+    <td class="td1">생명력</td>
+    <td class="td1">공격(마법)력</td>
+    <td class="td1">방어력</td>
+    <td class="td1">속공</td>
+  </tr>
+  <tr>
+    <td class="td2">1,695</td>
+    <td class="td2">952</td>
+    <td class="td2">422</td>
+    <td class="td2">16</td>
+  </tr>
+</table>
+</div>
+</div>
+<!--db_watermark end -->
+
+
+</div>
+<!--db_contents2 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">특기</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="100%" />
+          </colgroup>
+  <tr>
+    <td class="td0"><span class="db_c2" style="padding:10px;float:left;color:#22dd4d;"  >관통, 침묵</span></td>
+  </tr>
+</table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+<!--db_contents5 start -->
+<div class="db_contents5" align="center">
+
+<div style="height:5px"></div>
+
+<div class="table_1px">
+<div class="db_tt_W" align="left">
+		<div class="db_tt">스킬 정보</div>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+          <colgroup>
+               <col width="15%" />
+               <col width="15%" />
+               <col width="70%" />
+          </colgroup>
+   <tr>
+    <td class="td0"><span class="db_c2">패시브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/gangjae1.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c2b">끓어오르는 분노 (고유 지속 효과)</p>자신에게 5인 공격에 대한 면역이 2턴간 부여됩니다.
+추가적으로 기본 공격시 일정 확률로 대상의 방어력을 무시합니다.
+(이 효과는 반격과 속공 효과에도 적용됩니다.)	</td>
+  </tr>
+        <tr>
+    <td rowspan="2"  class="td0"><span class="db_c3">액티브</span></td>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/gangjae2.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">폭혈난타 (재사용 시간 : 66초)</p>적군 1명에게 공격력의 160% 물리 피해를 입힙니다.
+추가적으로 관통 효과가 적용됩니다.	</td>
+  </tr>
+       <tr>
+    <td class="td1"><img src="http://appdata.hungryapp.co.kr/images/dbimg/7knights/skill/gangjae3.png" class="db_thumB" onerror='noimage(this)'/></td>
+    <td class="td3_L">
+    	<p class="db_c3b">분노의 사슬 (재사용 시간 : 74초)</p>적군 전체에게 공격력의 70% 물리 피해를 입힙니다.
+확률적으로 2턴간 대상에게 침묵 효과를 부여합니다.	</td>
+  </tr>
+    </table>
+</div>
+
+</div>
+<!--db_contents5 end -->
+
+
+<!--db_contents5 start -->
+<div class="db_contents3">
+
+<div class="table_1px">
+
