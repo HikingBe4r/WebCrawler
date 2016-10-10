@@ -77,7 +77,7 @@ public class WebCrawler {
 		   // ** txt파일로 저장해보자
 		   BufferedWriter txtCreater;
 		   
-		   String filename = "C:/tmp//etc/really/"+ "webcrawler_" + i + ".txt";
+		   String filename = "C:/Users/HikingBear/Documents/webcrawler/WebCrawler/etc" + "webcrawler_" + i + ".txt";
 		   
 		   
 		   txtCreater = new BufferedWriter(new FileWriter(filename));
