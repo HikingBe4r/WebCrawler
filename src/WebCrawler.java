@@ -3,11 +3,10 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.GenericArrayType;
-import java.net.URLEncoder;
+import java.net.URLEncoder;	// utf-8로 인코딩할때 썼는데, 저장할때 쓰려다보니 깨져서 나와서 안씀.
 import java.nio.charset.Charset;
 import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.Date;		// 앞뒤로 시간 기록할때 썼는데 지움.
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -16,19 +15,8 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.ContentType;
 import org.apache.http.impl.client.HttpClientBuilder;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
 
 public class WebCrawler {
-
-	public static String getCurrentData(){
-        SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd HH:mm:ss");
-        return sdf.format(new Date());
-	}
 
 	public static void main(String[] args) throws ClientProtocolException, IOException {
 		 int i = 1;
@@ -37,7 +25,7 @@ public class WebCrawler {
 	     String Url3;
 	     
 	     // 모든 영웅목록 반복문 실행. [161010] 현재 427개 있음.
-	     while(i < 2){
+	     while(i < 427 + 1){
 			//  HTTP 주소 세팅
 	    	Url3 = Url1 + i + Url2;
 			HttpPost http = new HttpPost(Url3);
@@ -51,18 +39,15 @@ public class WebCrawler {
 			// Response 받은 데이터 중, DOM 데이터를 가져와 Entity에 담음
 			HttpEntity entity = response.getEntity();
 		   
-			// Charset을 알아내기 위해 DOM의 컨텐트 타입을 가져와 담고 Charset을 가져옴 
+			// 가져올 데이터 Charset 알아내기.
 			ContentType contentType = ContentType.getOrDefault(entity);
 			Charset charset = contentType.getCharset();
 	        
-			// DOM 데이터를 한 줄씩 읽기 위해 Reader에 담음 (InputStream / Buffered 중 선택은 개인취향) 
+			// 데이터 한줄씩 읽기.
 			BufferedReader br = new BufferedReader(new InputStreamReader(entity.getContent(), charset));
-		   
+		    StringBuffer sb = new StringBuffer();
 	
-			// 가져온 DOM 데이터를 담기위한 그릇
-			StringBuffer sb = new StringBuffer();
-	
-			// DOM 데이터 가져오기
+			// 데이터 가져와서 sb에 입력.
 			String line = "";
 			int count = 0;
 			while((line=br.readLine()) != null){
@@ -73,13 +58,13 @@ public class WebCrawler {
 				}
 				count++;
 			}
-			// 가져온 아름다운 DOM을 보자
+			// 데이터 출력. //이건 없어도 파일로저장할때 무방함.
 			System.out.println(sb.toString());
 		   
-			// ** txt파일로 저장해보자
+			// txt파일로 저장해보자
 			BufferedWriter txtCreater;
 		   
-			String filename = "C:/Users/HikingBear/Documents/webcrawler/WebCrawler/etc/really/" + "webcrawler_" + i + ".html";
+			String filename = "C:/Users/HikingBear/Documents/webcrawler/WebCrawler/etc/really/" + "webcrawler_" + i + ".txt";	// 절대경로 말고 상대경로로 하는방법 찾아보기.
 		   
 			txtCreater = new BufferedWriter(new FileWriter(filename));
 			txtCreater.write(sb.toString()); txtCreater.newLine();
